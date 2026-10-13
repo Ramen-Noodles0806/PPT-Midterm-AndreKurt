@@ -1,0 +1,5 @@
+Name: Andre Kurt M. Angeles
+Course: Bachelor of Science in Computer Science with a Specialization in Software Engineering
+Year Level: 3rd Year
+Favorite Programming Language: Python
+Career Goal: Game Dev or Software Engineer

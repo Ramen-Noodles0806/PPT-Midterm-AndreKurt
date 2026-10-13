@@ -1,0 +1,14 @@
+1. Git is used for: 
+	- tracking changes to my files and managing versions of a project on my own computer.
+
+2. GitHub is used for: 
+	- hosting Git repositories online so I can back them up, share them, and collaborate.
+
+3. A commit means: 
+	- a saved snapshot of my staged changes, recorded in the project history with a message.
+
+4. A branch is used for: 
+	- working on a feature or change separately without affecting the main code.
+
+5. A Pull Request is used for: 
+	- asking to merge changes from one branch into another so they can be reviewed first.
